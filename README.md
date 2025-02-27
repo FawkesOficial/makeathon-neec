@@ -4,6 +4,8 @@
 
 A quirky "Useless Box" that brings Bender (from Futurama) to life! Features a self-flipping switch, amusing TTS responses, and a pop-up Bender head for added fun. Built entirely in Python using event-driven programming and threading.
 
+⏳ Developed in **48h** ⏳
+
 🏆 Awarded **2nd Place** at Makeathon NEEC! 🏆
 
 [NEEC Instagram post](https://www.instagram.com/p/DGg1k1StcIy/?img_index=4)
