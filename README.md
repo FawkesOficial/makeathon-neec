@@ -18,11 +18,17 @@ A quirky "Useless Box" that brings Bender (from Futurama) to life! Features a se
 ## Tech Stack
 - **Language**: python
 - **Concepts**: event-based programming, threading
-- **Hardware**: raspberry Pi, switch, buttons, proximity sensor, servo motor
+- **Hardware**: raspberry pi, switch, buttons, proximity sensor, servo motor
 
 ## Demo
 
+Full animation:
+
 ![demo](demo.gif)
+
+Just the arm:
+
+![demo just arm](demo-just-arm.gif)
 
 ## Installation & Usage
 This project is designed to run on a Raspberry Pi.
