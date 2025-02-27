@@ -8,7 +8,7 @@ A quirky "Useless Box" that brings Bender (from Futurama) to life! Features a se
 
 🏆 Awarded **2nd Place** at Makeathon NEEC! 🏆
 
-[NEEC Instagram post](https://www.instagram.com/p/DGg1k1StcIy/?img_index=4)
+[NEEC's Instagram post](https://www.instagram.com/p/DGg1k1StcIy/?img_index=4)
 
 ## Features
 - A switch that flips itself back automatically when toggled.
